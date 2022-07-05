@@ -54,3 +54,9 @@ section {
     bottom: 500px;
     border-radius: 30px;
 }
+
+footer {
+    background-color: aqua;
+    height: 30px;
+    text-align: center;
+}
