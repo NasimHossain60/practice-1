@@ -1,0 +1,56 @@
+section {
+    display: flex;
+}
+
+.width {
+    width: 50%;
+    margin: 30px;
+    padding: 30px;
+    ;
+}
+
+.button {
+    text-decoration: none;
+    margin: 30px;
+    padding: 10px 20px;
+    color: white;
+    border-radius: 17px;
+    background-image: linear-gradient(orange, red);
+}
+
+.middle {
+    background-image: url(image/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+}
+
+.top {
+    background-image: url(image/7.png);
+    background-repeat: no-repeat;
+}
+
+.center {
+    text-align: center;
+    margin: 300px;
+    position: relative;
+    bottom: 250px;
+}
+
+.width-left {
+    position: relative;
+    margin-left: 4%;
+    margin-right: 5%;
+    padding: 20px;
+    box-shadow: 10px 10px 40px red;
+    bottom: 500px;
+    border-radius: 30px;
+}
+
+.width-right {
+    position: relative;
+    margin-left: 0%;
+    margin-right: 10%;
+    padding: 20px;
+    box-shadow: 10px 10px 40px red;
+    bottom: 500px;
+    border-radius: 30px;
+}
